@@ -1,0 +1,36 @@
+I"Ô
+<div id="container-open-source">
+    <section class="jumbotron geopattern" data-pattern-id="Open Source Projects">
+        <div class="container">
+            <div id="jumbotron-meta-info">
+                <h1>Open Source Projects</h1>
+                <span class="meta-info">
+                    I have <span class="repo-count badge"></span> projects on Github
+                </span>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <div class="repo-list row">
+            <!-- Check here for github metadata -->
+            <!-- https://help.github.com/articles/repository-metadata-on-github-pages/ -->
+            
+        </div>
+    </section>
+
+</div>
+<script>
+    $(document).ready(function(){
+
+        // Enable bootstrap tooltip
+        $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+
+        $('.geopattern').each(function(){
+            $(this).geopattern($(this).data('pattern-id'));
+        });
+
+    });
+</script>
+
+:ET
