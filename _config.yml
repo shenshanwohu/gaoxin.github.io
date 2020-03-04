@@ -73,15 +73,17 @@ navs:
 
   -
     href: /blog
-    label: Blog
+    label: 2007-2009年鉴
 
   -
     href: /bookmark
     label: Bookmark
 
   -
-    href: /about
-    label: About
+    # href: /about
+    # label: About
+    href: /archives
+    label: 年鉴直达
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show
