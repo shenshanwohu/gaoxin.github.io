@@ -67,11 +67,11 @@ navs:
     label: 首页
 
   -
-    href: /pdf
+    href: /gaoxin.github.io/pdf
     label: 10-18年鉴
 
   -
-    href: /yearbook
+    href: /gaoxin.github.io/yearbook
     label: 07-09年鉴
 
  # -
@@ -82,7 +82,7 @@ navs:
   -
     # href: /about
     # label: About
-    href: /archives
+    href: /gaoxin.github.io/archives
     label: 年鉴直达
 
 # Sidebar to show popular repo
