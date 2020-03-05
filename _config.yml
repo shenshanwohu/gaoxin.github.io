@@ -68,16 +68,17 @@ navs:
     label: Home
 
   -
-    href: /open-source
-    label: Open-Source
+    href: /pdf
+    label: 10-18年鉴
 
   -
-    href: /blog
-    label: 2007-2009年鉴
+    href: /yearbook
+    label: 07-09年鉴
 
-  -
-    href: /bookmark
-    label: Bookmark
+ # -
+    # href: /bookmark
+    # label: Bookmark
+
 
   -
     # href: /about

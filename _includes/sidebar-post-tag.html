@@ -37,10 +37,12 @@
 
             $("#blog-categories .list-group-item").each(function (i, item) {
                 if ($(item).attr("data-category") == hash) {
+
                     $(item).addClass("active");
                     var posts = $(item).attr("data-posts").split("||");
+
                     $("#posts-list .posts-list-item").each(function (i, item) {
-                        $.inArray($(item).attr("data-title"), posts) != -1 ? $(item).show() : $(item).hide();
+                        $.inArray($(item).attr("data-title"), posts) != -1 && $(item).attr("data-date")==hash ? $(item).show() : $(item).hide();
                     });
                 } else {
                     $(item).removeClass("active");

@@ -1,0 +1,32 @@
+- name: 2010年成都高新区年鉴
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/10/2010.pdf
+
+- name: 2011年成都高新区年鉴
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/11/2011.pdf
+
+- name: 2012成都高新区年鉴(正文)转曲
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/12/201201.pdf
+
+- name: 2012年12.6正文篇章页-定稿
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/12/201202.pdf
+
+- name: 2013成都高新区年鉴正文
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/13/2013zhengwen.pdf
+
+- name: 2013成都高新区年鉴图照
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/13/2013tuzhao.pdf
+
+- name: 2014年成都高新区年鉴
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/14/2014.pdf
+
+- name: 2015年成都高新区年鉴
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/15/2015.pdf
+
+- name: 2016年成都高新区年鉴
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/16/2016.pdf
+
+- name: 2017年成都高新区年鉴
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/17/2017.pdf
+
+- name: 2018年成都高新区年鉴
+  address: http://118.122.119.153:9003/static/pdfjs/web/viewer.html?file=/static/pdf/18/2018.pdf
