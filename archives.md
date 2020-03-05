@@ -9,6 +9,12 @@ permalink: /archives.html
 ---
 
 <ul class="archives-list">
+            {% for item in site.data.pdf_address %}
+            <li >  <a  href="{{ item.address }}">{{ item.name }}</a> </li>
+            {% endfor %}
+</ul>
+
+<ul class="archives-list">
   {% for post in site.posts %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
