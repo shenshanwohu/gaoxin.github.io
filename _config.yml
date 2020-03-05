@@ -64,7 +64,7 @@ paginate_path: 'page:num'
 # Navigation. If you do not like these modules, just remove them :D
 navs:
   -
-    href: /
+    href: /gaoxin.github.io/
     label: 首页
 
   -
